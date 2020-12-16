@@ -1,6 +1,6 @@
 # Big Data Privacy using Fully Homomorphic Non-deterministic Encryption
 
-![](System Architecture.png)
+![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 This code has three files. 
