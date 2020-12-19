@@ -2,7 +2,8 @@
 
 # Big Data Privacy using Fully Homomorphic Non-deterministic Encryption
 
-![](https://github.com/Mayur-Debu/Homomorphic_Encryption/blob/main/System%20Architecture.png "System Architecture of the Homomorphic Encryption")
+<img src="https://github.com/Mayur-Debu/Homomorphic_Encryption/blob/main/System%20Architecture.png" align="center" height=650/>
+
 
 
 #### Briefing of the project:
