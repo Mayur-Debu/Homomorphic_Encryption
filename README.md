@@ -14,6 +14,6 @@ client.py sits with the customer and includes methods to generate and store a pr
 You can also run Homomorphic_Encryption in Gitpod, a free online dev environment for GitHub:
 
 <img src="https://media0.giphy.com/media/VGiAk8CLVqlFF4N2Mi/giphy.gif" alt="drawing" width="50"/></img>
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://c1c6a70b-c7b1-407a-a3f7-70551e66342a.ws-us02.gitpod.io/#/workspace/Homomorphic_Encryption)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://b6fc9e42-a51c-4db6-a338-e2d852c9e8e2.ws-us03.gitpod.io/#/workspace/Homomorphic_Encryption)
 
 Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
