@@ -16,3 +16,14 @@ You can also run Homomorphic_Encryption in Gitpod, a free online dev environment
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://b6fc9e42-a51c-4db6-a338-e2d852c9e8e2.ws-us03.gitpod.io/#/workspace/Homomorphic_Encryption)
 
 Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
+
+*****
+# Acknowledgement:
+>Research Paper: Big Data Privacy Using Fully Homomorphic Non-Deterministic Encryption.<br>
+>Submitted By: Tejashree P. SSBT's COET (Alumni), Girish P. SSBT's COET (HOD. Computer Engineering Department).<br>
+>INSPEC Accession Number: 17030423<br>
+>DOI: 10.1109/IACC.2017.0041<br>
+>Date of Conference: 5-7 Jan, 2017.<br>
+>Publisher: IEEE<br>
+>Date Added to IEEE Xplore: 13 July, 2017.<br>
+
