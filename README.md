@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/VGiAk8CLVqlFF4N2Mi/giphy.gif" alt="drawing" width="50"/></img>
+
 
 # Big Data Privacy using Fully Homomorphic Non-deterministic Encryption
 
