@@ -1,5 +1,4 @@
-<img src="https://media0.giphy.com/media/VGiAk8CLVqlFF4N2Mi/giphy.gif" alt="drawing" width="200"/>
-# Big Data Privacy using Fully Homomorphic Non-deterministic Encryption
+<img src="https://media0.giphy.com/media/VGiAk8CLVqlFF4N2Mi/giphy.gif" alt="drawing" width="200"/></img># Big Data Privacy using Fully Homomorphic Non-deterministic Encryption
 
 ![](https://github.com/Mayur-Debu/Homomorphic_Encryption/blob/main/System%20Architecture.png "System Architecture of the Homomorphic Encryption")
 
