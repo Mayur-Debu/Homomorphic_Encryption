@@ -1,9 +1,3 @@
-"""
-Big Data Privacy using Fully Homomorphic Non-deterministic Encryption.
-Acknowledgement: Tejashree P., Girish P.
-Code By: Mayur P.
-"""
-
 from MachineLearningModel import LinModel
 import phe as paillier
 import json
