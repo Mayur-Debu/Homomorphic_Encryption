@@ -26,5 +26,5 @@ Please Note: The GUI is a little glithcy in GitPod. For best results expand the 
 >Date of Conference: 5-7 Jan, 2017.<br>
 >Publisher: IEEE<br>
 >Date Added to IEEE Xplore: 13 July, 2017.<br>
->[--> Get the research paper here <--](https://ieeexplore.ieee.org/document/7976775)
+><img src="https://media3.giphy.com/media/VGiAk8CLVqlFF4N2Mi/giphy.gif" width=30/>  https://ieeexplore.ieee.org/document/7976775
 
