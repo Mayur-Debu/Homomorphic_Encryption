@@ -16,16 +16,15 @@ You can also execute Homomorphic_Encryption in Gitpod, a free online dev environ
 
 *****
 # Acknowledgement:
->Research Paper: Big Data Privacy Using Fully Homomorphic Non-Deterministic Encryption.<br>
->INSPEC Accession Number: 17030423<br>
->DOI: 10.1109/IACC.2017.0041<br>
->Date of Conference: 5-7 Jan, 2017.<br>
->Publisher: IEEE<br>
->Date Added to IEEE Xplore: 13 July, 2017.<br>
->Submitted By:<br>
+Research Paper: Big Data Privacy Using Fully Homomorphic Non-Deterministic Encryption.<br>
+INSPEC Accession Number: 17030423<br>
+DOI: 10.1109/IACC.2017.0041<br>
+Date of Conference: 5-7 Jan, 2017.<br>
+Publisher: IEEE<br>
+Date Added to IEEE Xplore: 13 July, 2017.<br>
+Submitted By:<br>
 --> Tejashree P. SSBT's COET (Alumni).<br>
 --> Girish P. SSBT's COET (HOD. Computer Engineering Department).<br>
 --> Ashish B. SSBT's COET (Computer Engineering Department).<br>
-
->https://ieeexplore.ieee.org/document/7976775
+https://ieeexplore.ieee.org/document/7976775
 
