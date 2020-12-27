@@ -10,7 +10,7 @@
 
 *****
 # Run in Gitpod
-You can also run Homomorphic_Encryption in Gitpod, a free online dev environment for GitHub:<br><br>
+You can also execute Homomorphic_Encryption in Gitpod, a free online dev environment for GitHub:<br><br>
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://b6fc9e42-a51c-4db6-a338-e2d852c9e8e2.ws-us03.gitpod.io/#/workspace/Homomorphic_Encryption)
 <br>Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
 
