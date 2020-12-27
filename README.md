@@ -22,9 +22,9 @@ You can also execute Homomorphic_Encryption in Gitpod, a free online dev environ
 >Date of Conference: 5-7 Jan, 2017.<br>
 >Publisher: IEEE<br>
 >Date Added to IEEE Xplore: 13 July, 2017.<br><br>
->Submitted By:<br>
+>Submitted By:
  >* Tejashree P. SSBT's COET (Alumni).<br>
  >* Girish P. SSBT's COET (HOD. Computer Engineering Department).<br>
  >* Ashish B. SSBT's COET (Computer Engineering Department).<br>
-><img src="https://media3.giphy.com/media/VGiAk8CLVqlFF4N2Mi/giphy.gif" width=30/>       https://ieeexplore.ieee.org/document/7976775
+>https://ieeexplore.ieee.org/document/7976775
 
