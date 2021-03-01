@@ -36,3 +36,9 @@ You can also execute Homomorphic_Encryption in Gitpod, a free online dev environ
 <br>Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
 
 *****
+***
+
+### Support:
+
+<p><a href="https://www.buymeacoffee.com/SmartMonkE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SmartMonkE" /></a></p>
+
