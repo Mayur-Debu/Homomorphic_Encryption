@@ -2,12 +2,12 @@
 
 <img src="https://github.com/Mayur-Debu/Homomorphic_Encryption/blob/main/System%20Architecture.png" align="center"  />
 
-#### Briefing of the project:
+### Briefing of the project:
 
-* 'client.py' sits with the customer and includes methods to generate and store a private/public key pair and methods to help decrypt the answer once received from the Server.<br>
-* 'server.py' and 'MachineLearningModel.py' sits with the Machine Learning Model that provides Machine Learning services. <br>
-* These files would receive a 'json' object with encrypted data and use the weights from the model in 'MachineLearningModel.py' and do the explicit calculations in the 'server.py' file.<br> 
-* This file also includes method to package up the answer and return it back to the client; where, the file can be further decrypted.
+#### 1. 'client.py' sits with the customer/client and include functions to generate and store the private and public key pair, it also consist of function to help decrypt the data files once received from the server.<br>
+#### 2. 'server.py' and 'MachineLearningModel.py' sits on the server side where the scaler complex calculations can be done that includes Machine Learning algorithm. <br>
+#### 3. These files would receive a 'json' object with encrypted data and use the weights from the model in 'MachineLearningModel.py' and do the explicit calculations in the 'server.py' file.<br> 
+#### 4. This file also includes method to package up the answer and return it back to the client; where, the file can be further decrypted.
 
 *****
 
