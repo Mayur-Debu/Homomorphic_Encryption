@@ -21,7 +21,7 @@ Publisher: IEEE
 Date Added to IEEE Xplore: 13 July, 2017.
 ```
 ```
-Submitted By:
+Credits To:
 Dr. Girish P. SSBT's COET (HOD. Computer Engineering Department).
 Prof. Ashish B. SSBT's COET (Associate Professor. Computer Engineering Department).
 Tejashree P. SSBT's COET (Alumni).
